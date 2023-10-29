@@ -1,0 +1,12 @@
+Options +FollowSymLinks -MultiViews
+
+<IfModule dir_module>
+    DirectoryIndex index.php
+</IfModule>
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?r=$1 [L,QSA]
