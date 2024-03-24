@@ -21,6 +21,7 @@
 - [Magento to Bagisto Migration](https://d2d-soft.com/bagisto-migration/969-8987-magento-to-bagisto-migration-tool.html#/72-entities-1000)
 - [MarketPress to Bagisto Migration](https://d2d-soft.com/bagisto-migration/970-8988-marketpress-to-bagisto-migration-tool.html#/72-entities-1000)
 - [OpenCart to Bagisto Migration](https://d2d-soft.com/bagisto-migration/971-8989-opencart-to-bagisto-migration-tool.html#/72-entities-1000)
+- [osCMax to Bagisto Migration](https://d2d-soft.com/bagisto-migration/1181-11536-oscmax-to-bagisto-migration-tool.html#/72-entities-1000)
 - [osCommerce to Bagisto Migration](https://d2d-soft.com/bagisto-migration/972-8990-oscommerce-to-bagisto-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to Bagisto Migration](https://d2d-soft.com/bagisto-migration/973-8991-oxid-eshop-to-bagisto-migration-tool.html#/72-entities-1000)
 - [Prestashop to Bagisto Migration](https://d2d-soft.com/bagisto-migration/974-8992-prestashop-to-bagisto-migration-tool.html#/72-entities-1000)
@@ -56,6 +57,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
